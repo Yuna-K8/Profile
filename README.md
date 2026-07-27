@@ -1,6 +1,7 @@
 숙명여자대학교 인공지능공학부 23학번
 
-노션 : https://sky-anemone-76b.notion.site/Portfolio-of-Kang-Yuna-3aa254b4bfc580b2966fd148e82b8a3c
+🔗 **Portfolio:** [Notion Portfolio]
+https://sky-anemone-76b.notion.site/Portfolio-of-Kang-Yuna-3aa254b4bfc580b2966fd148e82b8a3c
 
 ### 🛠 Tech Stack
 
